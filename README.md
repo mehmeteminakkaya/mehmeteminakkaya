@@ -85,24 +85,6 @@
 
 ---
 
-## 📊 GitHub İstatistikleri & Canlı Aktivite
-
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=mehmeteminakkaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehmet's GitHub Stats" />
-    &nbsp;
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehmeteminakkaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=mehmeteminakkaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmeteminakkaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="92%" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Profilimi ziyaret ettiğiniz için teşekkürler! © 2026 Mehmet Emin Akkaya</sub>
+  <sub>© 2026 Mehmet Emin Akkaya</sub>
 </div>
