@@ -22,7 +22,7 @@
 ## ⚡ Hakkımda
 
 * 🎓 **Lisans:** İstinye Üniversitesi — Bilgisayar Mühendisliği (%100 İngilizce / 2023 — 2027)
-* 🤖 **Bursiyer:** **Google Yapay Zeka ve Teknoloji Akademisi**
+* 🤖 **Bursiyer:** **Google Yapay Zeka ve Teknoloji Akademisi** (Türkiye geneli 1.500 bursiyerden biri)
 * 🏆 **Başarı:** **Google Hackathon Finalisti** — *Nexus AI*
 * 🚀 **Topluluk:** İstinye Üniversitesi Bilişim Kulübü — **Başkan Yardımcısı**
 * 💡 **İlgi Alanları:** Yapay Zekâ Entegrasyonu · Mobil Geliştirme (Android / Kotlin) · Gömülü Sistemler (ESP32) · Backend Servisleri (Python / FastAPI)
@@ -57,27 +57,46 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Öne Çıkan Amiral Gemisi Projeler
 
-* **🤖 [Nexus AI](https://github.com/mehmeteminakkaya/Nexus-Proje)** *(Google Hackathon Finalisti)*  
-  KOBİ'lerin nakit akışını tahmin eden ve Gemini OCR ile faturaları işleyen otonom B2B SaaS platformu.  
-  `FastAPI` · `React` · `Gemini Flash OCR` · `NVIDIA NIM`
-
-* **📱 [Mİ-GO](https://github.com/mehmeteminakkaya/Migo)**  
-  Öğrencinin yetkinliklerine göre üniversite ve kariyer yol haritası çıkaran yapay zekâ destekli Android uygulaması.  
-  `Android (Kotlin)` · `Jetpack Compose` · `Material 3` · `YÖK Atlas API`
-
-* **⚡ [Study Buddy](https://github.com/mehmeteminakkaya/Study-Buddy-Simulation)**  
-  XIAO ESP32-S3 tabanlı, sensörlü ve sesli Llama 3.3 70B koçluk entegreli akıllı Pomodoro çalışma istasyonu devresi.  
-  `ESP32-S3` · `C++` · `Llama 3.3 70B` · `Wokwi Simulation`
-
-* **🎙️ [BenimHakkımda](https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat)**  
-  STAR metodolojisiyle anlık skorlama yapan sesli/yazılı AI teknik mülakat simülatörü.  
-  `Node.js` · `Express` · `Gemini Flash` · [Canlı Demo ↗](https://benimhakkimda-aim-lakat.vercel.app/)
-
-* **📋 [ToDoGemini](https://github.com/mehmeteminakkaya/ToDo-List)**  
-  Büyük hedefleri alt görevlere bölen yapay zekâ destekli görev yönetim servisi.  
-  `FastAPI` · `Docker` · `SQLAlchemy` · `Alembic`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/mehmeteminakkaya/Nexus-Proje">Nexus AI</a></h3>
+      <p><em>Google Hackathon Finalisti · B2B SaaS</em></p>
+      <p>KOBİ'lerin nakit akışını tahmin eden ve Gemini OCR ile faturaları işleyen otonom SaaS platformu.</p>
+      <p><code>FastAPI</code> · <code>React</code> · <code>Gemini Flash OCR</code> · <code>NVIDIA NIM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/mehmeteminakkaya/Migo">Mİ-GO</a></h3>
+      <p><em>AI Destekli Kariyer Pusulası · Android / Kotlin</em></p>
+      <p>Öğrencinin yetkinliklerine göre üniversite ve kariyer yol haritası çıkaran mobil rehberlik uygulaması.</p>
+      <p><code>Android (Kotlin)</code> · <code>Jetpack Compose</code> · <code>Material 3</code> · <code>YÖK Atlas API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/mehmeteminakkaya/Study-Buddy-Simulation">Study Buddy</a></h3>
+      <p><em>Akıllı Donanım &amp; Pomodoro Devresi</em></p>
+      <p>XIAO ESP32-S3 tabanlı, sensörlü ve sesli Llama 3.3 70B koçluk entegreli akıllı çalışma istasyonu devresi.</p>
+      <p><code>ESP32-S3</code> · <code>C++</code> · <code>Llama 3.3 70B</code> · <code>Wokwi Simulation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat">BenimHakkımda</a></h3>
+      <p><em>İnteraktif AI Mülakat Simülatörü</em></p>
+      <p>STAR metodolojisiyle anlık skorlama yapan sesli/yazılı teknik mülakat simülatörü.</p>
+      <p><code>Node.js</code> · <code>Express</code> · <code>Gemini Flash</code> · <a href="https://benimhakkimda-aim-lakat.vercel.app/" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📋 <a href="https://github.com/mehmeteminakkaya/ToDo-List">ToDoGemini</a></h3>
+      <p><em>AI Destekli Görev Ayrıştırma &amp; Mikroservis</em></p>
+      <p>Büyük hedefleri alt görevlere bölen, FastAPI ve Docker ile containerize edilmiş görev yönetim servisi.</p>
+      <p><code>FastAPI</code> · <code>Docker</code> · <code>SQLAlchemy</code> · <code>Alembic</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
