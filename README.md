@@ -9,10 +9,10 @@
 <br><br>
 
 <p align="center">
-  <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="36" width="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" /></a>
+  <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="34" /></a>
 </p>
 
 <p align="center">
@@ -37,30 +37,36 @@
 
 <div align="center">
 
-### 💻 Programlama Dilleri
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,cpp,c,js,ts,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="42" />
 </p>
 
-### 🧠 Yapay Zekâ, Veri & LLM
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI & ML" />
-</p>
-<p align="center">
-  <code>Google Gemini 1.5 API</code> • <code>NVIDIA NIM Inference</code> • <code>Llama 3.3 70B</code> • <code>LangChain</code> • <code>FAISS Vector RAG</code> • <code>Tesseract OCR</code>
-</p>
-
-### ⚡ Backend, Bulut & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,postgres,sqlite,redis,git,linux,cloudflare,vercel" alt="Backend & DevOps" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" alt="OpenCV" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="42" />
 </p>
 
-### 📱 Mobil & Donanım / IoT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino" alt="Mobile & Hardware" />
-</p>
-<p align="center">
-  <code>Jetpack Compose</code> • <code>Material 3</code> • <code>XIAO ESP32-S3</code> • <code>I2C / I2S Audio</code> • <code>Web Audio API</code> • <code>Wokwi Simulation</code>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" height="42" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino / ESP32" alt="Arduino" height="42" />
 </p>
 
 </div>
