@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Mehmet%20Emin%20Akkaya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%7C%20AI%20%26%20Mobil%20Geli%C5%9Ftirici&descSize=18&descAlignY=62" width="100%"/>
+# Mehmet Emin Akkaya
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" />
@@ -10,13 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=mehmeteminakkaya&label=Profile%20views&color=3b82f6&style=flat-square" alt="mehmeteminakkaya" />
 </p>
 
-### 🌐 Sosyal Medya & İletişim
-
 <p align="center">
-  <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="website" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="34" width="44" /></a>
+  <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://skillicons.dev/icons?i=vercel" alt="Website" height="38" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="38" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="38" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="38" /></a>
 </p>
 
 <p align="center">
@@ -142,10 +140,10 @@
   <p>Yeni fikirler, ortak projeler veya teknoloji sohbetleri için masadayım.</p>
   
   <p align="center">
-    <a href="https://mehmeteminakkaya.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="website" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mehmeteminakkaya12@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mehmeteminakkaya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="34" width="44" /></a>
+    <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://skillicons.dev/icons?i=vercel" alt="Website" height="38" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="38" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="38" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="38" /></a>
   </p>
 </div>
 
