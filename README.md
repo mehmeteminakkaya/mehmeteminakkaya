@@ -1,50 +1,52 @@
 <div align="center">
 
-# Hi 👋, I'm Mehmet Emin Akkaya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Mehmet%20Emin%20Akkaya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%7C%20AI%20%26%20Mobil%20Geli%C5%9Ftirici&descSize=18&descAlignY=62" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Computer+Engineering+Student;Google+AI+%26+Tech+Academy+Scholar;Google+Hackathon+Finalist+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Developer+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Architect+%C2%B7+Study+Buddy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmeteminakkaya&label=Profile%20views&color=0e75b6&style=flat" alt="mehmeteminakkaya" />
+  <img src="https://komarev.com/ghpvc/?username=mehmeteminakkaya&label=Profile%20views&color=3b82f6&style=flat-square" alt="mehmeteminakkaya" />
+</p>
+
+### 🌐 Sosyal Medya & İletişim
+
+<p align="center">
+  <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="website" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="34" width="44" /></a>
 </p>
 
 <p align="center">
-  <a href="https://mehmeteminakkaya.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-mehmeteminakkaya.com-11130f?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Emin%20Akkaya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aktaha@gmail.com"><img src="https://img.shields.io/badge/Email-aktaha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mehmeteminakkaya"><img src="https://img.shields.io/badge/GitHub-mehmeteminakkaya-24292e?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <em>"Code, curiosity, and momentum. Turning AI, mobile, and hardware into working products."</em>
+  <em>"Kod, merak ve momentum. Yapay zekâyı, mobil deneyimleri ve donanımı çalışan ürünlere dönüştürüyorum."</em>
 </p>
 
 ---
 
 </div>
 
-## ⚡ Quick Snapshot / Hakkımda
+## ⚡ Hakkımda & Öne Çıkanlar
 
-* 🎓 **Education:** İstinye University — Computer Engineering (B.Sc., 100% English / 2023 — 2027)
-* 🤖 **AI Scholar:** **Google Artificial Intelligence & Technology Academy** (Selected among top 1,500 in Turkey)
-* 🏆 **Hackathon Finalist:** **Google Hackathon Finalist** — *Nexus AI (Autonomous B2B SaaS Operations Platform)*
-* 🚀 **Leadership:** Vice President @ Istinye University IT Club
-* 💡 **Core Focus:** AI Engineering · Android Development (Kotlin & Material 3) · Edge IoT (ESP32-S3) · Distributed Backend (FastAPI / Docker)
+* 🎓 **Lisans Eğitimi:** İstinye Üniversitesi — Bilgisayar Mühendisliği (%100 İngilizce / 2023 — 2027)
+* 🤖 **Akademi Bursiyeri:** **Google Yapay Zeka ve Teknoloji Akademisi** (Türkiye genelinde seçilen 1.500 bursiyerden biri)
+* 🏆 **Hackathon Başarısı:** **Google Hackathon Finalisti** — *Nexus AI (B2B SaaS Operasyon Platformu)*
+* 🚀 **Kulüp Liderliği:** İstinye Üniversitesi Bilişim Kulübü — **Başkan Yardımcısı**
+* 💡 **Odak Alanları:** Yapay Zekâ Mühendisliği · Android Mobil Geliştirme (Kotlin) · Edge AI & Gömülü Sistemler (ESP32-S3) · Dağıtık Backend Servisleri (FastAPI / Docker)
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Yetkinlikler & Teknoloji Yığını
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programlama Dilleri
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,cpp,c,js,ts,html,css" alt="Languages" />
 </p>
 
-### 🧠 Artificial Intelligence & Data
+### 🧠 Yapay Zekâ, Veri & LLM
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI & ML" />
 </p>
@@ -52,12 +54,12 @@
   <code>Google Gemini 1.5 API</code> • <code>NVIDIA NIM Inference</code> • <code>Llama 3.3 70B</code> • <code>LangChain</code> • <code>FAISS Vector RAG</code> • <code>Tesseract OCR</code>
 </p>
 
-### ⚡ Backend, Cloud & DevOps
+### ⚡ Backend, Bulut & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,postgres,sqlite,redis,git,linux,cloudflare,vercel" alt="Backend & DevOps" />
 </p>
 
-### 📱 Mobile & Hardware / IoT
+### 📱 Mobil & Donanım / IoT
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,arduino" alt="Mobile & Hardware" />
 </p>
@@ -69,7 +71,7 @@
 
 ---
 
-## 🚀 Featured Flagship Projects
+## 🚀 Öne Çıkan Amiral Gemisi Projeler
 
 <table>
   <tr>
@@ -79,8 +81,8 @@
         <a href="https://github.com/mehmeteminakkaya/Nexus-Proje"><img src="https://img.shields.io/badge/Google%20Hackathon-Finalist-gold?style=flat&logo=google" /></a>
         <img src="https://img.shields.io/badge/FastAPI-React-009688?style=flat" />
       </p>
-      <p>Autonomous B2B SaaS platform for SMEs; analyzes receipts via Gemini OCR, simulates cashflow, and executes operational actions through natural language.</p>
-      <p align="center"><a href="https://github.com/mehmeteminakkaya/Nexus-Proje"><strong>View Repository ➔</strong></a></p>
+      <p>KOBİ'lerin finansal ve operasyonel kararlarını otonomlaştıran; Gemini OCR ile fatura okuyan, nakit akışı tahmin eden çok katmanlı B2B SaaS platformu.</p>
+      <p align="center"><a href="https://github.com/mehmeteminakkaya/Nexus-Proje"><strong>Depoyu İncele ➔</strong></a></p>
     </td>
     <td width="50%">
       <h3 align="center">📱 Mİ-GO</h3>
@@ -88,8 +90,8 @@
         <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat&logo=android" />
         <img src="https://img.shields.io/badge/Material%203-Compose-4285F4?style=flat" />
       </p>
-      <p>AI-powered career & university pathfinder mobile application built with Jetpack Compose, YÖK Atlas dataset, and NVIDIA NIM AI reasoning.</p>
-      <p align="center"><a href="https://github.com/mehmeteminakkaya/Migo"><strong>View Repository ➔</strong></a></p>
+      <p>Öğrencinin yetkinliklerini analiz edip YÖK Atlas ve NVIDIA NIM ile kişiselleştirilmiş üniversite ve kariyer rotası çizen AI destekli mobil pusula.</p>
+      <p align="center"><a href="https://github.com/mehmeteminakkaya/Migo"><strong>Depoyu İncele ➔</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -99,24 +101,24 @@
         <img src="https://img.shields.io/badge/Hardware-ESP32--S3-E91E63?style=flat" />
         <img src="https://img.shields.io/badge/AI-Llama%203.3%2070B-FF9800?style=flat" />
       </p>
-      <p>Interactive hardware simulation of an ESP32-S3 desktop Pomodoro & AI voice coaching device with BME280 sensors, SSD1306 OLED, and I2S audio.</p>
-      <p align="center"><a href="https://github.com/mehmeteminakkaya/Study-Buddy-Simulation"><strong>View Repository ➔</strong></a></p>
+      <p>XIAO ESP32-S3, BME280 ortam sensörleri, OLED ekran ve Llama 3.3 sesli koçluk entegreli akıllı Pomodoro çalışma istasyonu devresi simülasyonu.</p>
+      <p align="center"><a href="https://github.com/mehmeteminakkaya/Study-Buddy-Simulation"><strong>Depoyu İncele ➔</strong></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎙️ BenimHakkımda</h3>
       <p align="center">
-        <a href="https://benimhakkimda-aim-lakat.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel" /></a>
+        <a href="https://benimhakkimda-aim-lakat.vercel.app/"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-Vercel-000000?style=flat&logo=vercel" /></a>
         <img src="https://img.shields.io/badge/AI-Gemini%20Flash-4285F4?style=flat" />
       </p>
-      <p>Interactive voice & text AI interview simulator evaluating candidates with STAR methodology, confidence, clarity, and technical correctness metrics.</p>
-      <p align="center"><a href="https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat"><strong>View Repository ➔</strong></a></p>
+      <p>Adayların teknik ve yetkinlik mülakatlarına sesli/yazılı hazırlanmasını sağlayan, STAR metodolojisiyle anlık skorlama üreten AI mülakat simülatörü.</p>
+      <p align="center"><a href="https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat"><strong>Depoyu İncele ➔</strong></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub İstatistikleri & Canlı Aktivite
 
 <div align="center">
   <p align="center">
@@ -134,21 +136,21 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 İletişime Geçin & Bağlantı Kurun
 
 <div align="center">
-  <p>Feel free to reach out for collaborations, project discussions, or tech talks!</p>
+  <p>Yeni fikirler, ortak projeler veya teknoloji sohbetleri için masadayım.</p>
   
   <p align="center">
-    <a href="https://mehmeteminakkaya.com"><img src="https://img.shields.io/badge/Website-mehmeteminakkaya.com-11130f?style=flat&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/mehmeteminakkaya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:aktaha@gmail.com"><img src="https://img.shields.io/badge/Email-aktaha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/mehmeteminakkaya"><img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" /></a>
+    <a href="https://mehmeteminakkaya.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="website" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mehmeteminakkaya12@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="34" width="44" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mehmeteminakkaya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="34" width="44" /></a>
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <sub>⭐ Thanks for visiting! © 2026 Mehmet Emin Akkaya</sub>
+  <sub>⭐ Profilimi ziyaret ettiğiniz için teşekkürler! © 2026 Mehmet Emin Akkaya</sub>
 </div>
