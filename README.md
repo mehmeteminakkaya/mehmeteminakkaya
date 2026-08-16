@@ -6,15 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmeteminakkaya&label=Profile%20views&color=3b82f6&style=flat-square" alt="mehmeteminakkaya" />
-</p>
+<br><br>
 
 <p align="center">
-  <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://skillicons.dev/icons?i=vercel" alt="Website" height="38" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="38" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="38" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="38" /></a>
+  <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="36" width="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" /></a>
 </p>
 
 <p align="center">
@@ -140,10 +138,10 @@
   <p>Yeni fikirler, ortak projeler veya teknoloji sohbetleri için masadayım.</p>
   
   <p align="center">
-    <a href="https://mehmeteminakkaya.com" target="_blank" title="Website"><img src="https://skillicons.dev/icons?i=vercel" alt="Website" height="38" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="38" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mehmeteminakkaya12@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="38" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="38" /></a>
+    <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="34" width="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="34" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="34" /></a>
   </p>
 </div>
 
