@@ -2,17 +2,13 @@
 
 # Mehmet Emin Akkaya
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" /></a>
 
-<br><br>
-
-<p align="center">
-  <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32" /></a>
+<p align="center" style="margin-top: 6px;">
+  <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmeteminakkaya/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehmeteminakkaya12@gmail.com" title="E-Posta"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mehmeteminakkaya" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="28" /></a>
 </p>
 
 <p align="center">
@@ -38,23 +34,23 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="42" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="40" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="42" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino / ESP32" alt="Arduino" height="42" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino / ESP32" alt="Arduino" height="40" />
 </p>
 
 </div>
