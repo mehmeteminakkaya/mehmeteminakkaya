@@ -2,7 +2,7 @@
 
 # Mehmet Emin Akkaya
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+Nexus+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+BrewHive+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" /></a>
 
 <p align="center" style="margin-top: 6px;">
   <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Website" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 
 * 🎓 **Lisans:** İstinye Üniversitesi — Bilgisayar Mühendisliği (%100 İngilizce / 2023 — 2027)
 * 🤖 **Bursiyer:** **Google Yapay Zeka ve Teknoloji Akademisi** (Türkiye geneli 1.500 bursiyerden biri)
-* 🏆 **Başarı:** **Google Hackathon Finalisti** — *Nexus AI*
+* 🏆 **Başarı:** **Google Hackathon Finalisti** — *BrewHive AI*
 * 🚀 **Topluluk:** İstinye Üniversitesi Bilişim Kulübü — **Başkan Yardımcısı**
 * 💡 **İlgi Alanları:** Yapay Zekâ Entegrasyonu · Mobil Geliştirme (Android / Kotlin) · Gömülü Sistemler (ESP32) · Backend Servisleri (Python / FastAPI)
 
@@ -62,10 +62,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/mehmeteminakkaya/Nexus-Proje">Nexus AI</a></h3>
-      <p><em>Google Hackathon Finalisti · B2B SaaS</em></p>
-      <p>KOBİ'lerin nakit akışını tahmin eden ve Gemini OCR ile faturaları işleyen otonom SaaS platformu.</p>
-      <p><code>FastAPI</code> · <code>React</code> · <code>Gemini Flash OCR</code> · <code>NVIDIA NIM</code></p>
+      <h3>☕ <a href="https://github.com/mehmeteminakkaya/Nexus-Proje">BrewHive AI</a></h3>
+      <p><em>Google Hackathon Finalisti · Akıllı Kafe Operasyon SaaS</em></p>
+      <p>İstanbul'daki 3 şubeli kahve zincirinin stok, ciro ve fatura OCR süreçlerini otonomlaştıran AI platformu.</p>
+      <p><code>FastAPI</code> · <code>React</code> · <code>Gemini Flash OCR</code> · <a href="https://brewhive-ai.vercel.app" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/mehmeteminakkaya/Migo">Mİ-GO</a></h3>
@@ -82,18 +82,18 @@
       <p><code>ESP32-S3</code> · <code>C++</code> · <code>Llama 3.3 70B</code> · <code>Wokwi Simulation</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat">BenimHakkımda</a></h3>
-      <p><em>İnteraktif AI Mülakat Simülatörü</em></p>
-      <p>STAR metodolojisiyle anlık skorlama yapan sesli/yazılı teknik mülakat simülatörü.</p>
-      <p><code>Node.js</code> · <code>Express</code> · <code>Gemini Flash</code> · <a href="https://benimhakkimda-aim-lakat.vercel.app/" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
+      <h3>📜 <a href="https://github.com/mehmeteminakkaya/MerakSandik">Meraksandık</a></h3>
+      <p><em>15 Dakikalık Odaklı Araştırma &amp; Fiş Kataloğu</em></p>
+      <p>13 kategoride 460+ kavramla dikkatiniz dağılmadan kendi başınıza öğrenmenizi sağlayan kütüphane fiş sistemi.</p>
+      <p><code>Vanilla JS</code> · <code>PWA</code> · <code>CSS Grid</code> · <a href="https://meraksandik.vercel.app" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📋 <a href="https://github.com/mehmeteminakkaya/ToDo-List">ToDoGemini</a></h3>
-      <p><em>AI Destekli Görev Ayrıştırma &amp; Mikroservis</em></p>
-      <p>Büyük hedefleri alt görevlere bölen, FastAPI ve Docker ile containerize edilmiş görev yönetim servisi.</p>
-      <p><code>FastAPI</code> · <code>Docker</code> · <code>SQLAlchemy</code> · <code>Alembic</code></p>
+      <h3>🎙️ <a href="https://github.com/mehmeteminakkaya/Benimhakkimda.aim-lakat">BenimHakkımda</a></h3>
+      <p><em>İnteraktif AI Mülakat Simülatörü</em></p>
+      <p>STAR metodolojisiyle anlık skorlama yapan sesli/yazılı teknik mülakat simülatörü.</p>
+      <p><code>Node.js</code> · <code>Express</code> · <code>Gemini Flash</code> · <a href="https://benimhakkimda-aim-lakat.vercel.app/" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
     </td>
   </tr>
 </table>
