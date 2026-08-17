@@ -2,7 +2,7 @@
 
 # Mehmet Emin Akkaya
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+BrewHive+AI;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&height=30&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Google+Yapay+Zeka+Akademisi+Bursiyeri;Google+Hackathon+Finalisti+%C2%B7+KobiFlow;Android+(Kotlin)+%26+AI+Geli%C5%9Ftiricisi+%C2%B7+M%C4%B0-GO;Edge+AI+%26+IoT+Donan%C4%B1m+Mimar%C4%B1+%C2%B7+Study+Buddy" alt="Typing SVG" /></a>
 
 <p align="center" style="margin-top: 6px;">
   <a href="https://mehmeteminakkaya.com" target="_blank" title="Web Sitesi"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Website" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,10 +62,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/mehmeteminakkaya/Nexus-Proje">BrewHive AI</a></h3>
-      <p><em>Google Hackathon Finalisti · Akıllı Kafe Operasyon SaaS</em></p>
-      <p>İstanbul'daki 3 şubeli kahve zincirinin stok, ciro ve fatura OCR süreçlerini otonomlaştıran AI platformu.</p>
-      <p><code>FastAPI</code> · <code>React</code> · <code>Gemini Flash OCR</code> · <a href="https://brewhive-ai.vercel.app" target="_blank"><strong>Canlı Demo ↗</strong></a></p>
+      <h3>💼 <a href="https://github.com/mehmeteminakkaya/Nexus-Proje">KobiFlow</a></h3>
+      <p><em>Google Hackathon Finalisti · KOBİ B2B SaaS</em></p>
+      <p>KOBİ'lerin çoklu depo stok takibini, B2B sipariş sevkiyatlarını ve fatura OCR süreçlerini yöneten kurumsal SaaS platformu.</p>
+      <p><code>FastAPI</code> · <code>React</code> · <code>Gemini OCR</code> · <a href="https://kobiflow-app.vercel.app" target="_blank"><strong>Canlı Uygulama ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/mehmeteminakkaya/Migo">Mİ-GO</a></h3>
