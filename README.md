@@ -4,7 +4,7 @@
 
 **CS student in Istanbul. I build small, useful tools and ship them.**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=8B7BEA&center=true&vCenter=true&width=640&height=30&lines=Year+in+Code+%C2%B7+your+git+year%2C+wrapped;Tab+Nap+%C2%B7+snooze+tabs+until+later;Google+AI+Academy+scholar;Google+Hackathon+finalist+%C2%B7+KobiFlow" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=8B7BEA&center=true&vCenter=true&width=640&height=30&lines=Console+Switch+%C2%B7+one+monitor%2C+PC+%2B+console;Year+in+Code+%C2%B7+your+git+year%2C+wrapped;Tab+Nap+%C2%B7+snooze+tabs+until+later;Google+AI+Academy+scholar;Google+Hackathon+finalist+%C2%B7+KobiFlow" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://mehmeteminakkaya.com"><img src="https://img.shields.io/badge/Website-mehmeteminakkaya.com-8b7bea?style=flat-square" alt="Website"></a>
@@ -18,6 +18,7 @@
 
 | | Project | What it does |
 |---|---|---|
+| 🎮 | **[Console Switch](https://github.com/mehmeteminakkaya/console-switch)** · [Download](https://github.com/mehmeteminakkaya/console-switch/releases/latest) | One monitor for your PC and console. Turn on the PS5/Xbox/Switch and the monitor switches to it; turn it off and you're back on the PC in ~2 s. Monitor volume from the tray. |
 | 📊 | **[Year in Code](https://github.com/mehmeteminakkaya/year-in-code)** · [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MehmetEminAkkaya.year-in-code) | Spotify Wrapped for your git history. Streaks, languages, your coder type and a share card. No token, works on private repos. |
 | 😴 | **[Tab Nap](https://github.com/mehmeteminakkaya/tab-nap)** · Chrome extension | Close a tab now, get it back tonight, tomorrow or at the weekend. No tracking. |
 | 📖 | **[Year in Pages](https://github.com/mehmeteminakkaya/year-in-pages)** · KOReader plugin (beta) | A yearly reading recap built right on your e-reader. |
